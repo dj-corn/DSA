@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dj-corn/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dj-corn/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/dj-corn/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/dj-corn/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dj-corn/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dj-corn/DSA/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dj-corn/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dj-corn/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dj-corn/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
